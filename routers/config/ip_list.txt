@@ -1,0 +1,3 @@
+http://router6:5001
+http://router7:5001
+http://router8:5001

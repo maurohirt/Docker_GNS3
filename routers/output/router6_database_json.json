@@ -1,0 +1,299 @@
+{
+    "areaScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.1",
+            "lsa": [
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.6",
+                    "age": 54,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.7\/0.0.0.12"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.6",
+                    "age": 54,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.17"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.6",
+                    "age": 54,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.19"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.7",
+                    "age": 60,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.7\/0.0.0.12"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.7",
+                    "age": 60,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.18"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.8",
+                    "age": 56,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.17"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.8",
+                    "age": 56,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.18"
+                },
+                {
+                    "type": "Rtr",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.8",
+                    "age": 56,
+                    "seqNum": 2147483651,
+                    "payload": "10.0.0.8\/0.0.0.19"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.12",
+                    "advRouter": "10.0.0.7",
+                    "age": 72,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.7"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.12",
+                    "advRouter": "10.0.0.7",
+                    "age": 72,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.17",
+                    "advRouter": "10.0.0.8",
+                    "age": 55,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.17",
+                    "advRouter": "10.0.0.8",
+                    "age": 55,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.18",
+                    "advRouter": "10.0.0.8",
+                    "age": 61,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.18",
+                    "advRouter": "10.0.0.8",
+                    "age": 61,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.7"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.19",
+                    "advRouter": "10.0.0.8",
+                    "age": 55,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.19",
+                    "advRouter": "10.0.0.8",
+                    "age": 55,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.6",
+                    "age": 54,
+                    "seqNum": 2147483652,
+                    "payload": "fcff:6::\/32"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.6",
+                    "age": 54,
+                    "seqNum": 2147483652,
+                    "payload": "fd00:0:6::\/64"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.7",
+                    "age": 60,
+                    "seqNum": 2147483652,
+                    "payload": "fcff:7::\/32"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.7",
+                    "age": 60,
+                    "seqNum": 2147483652,
+                    "payload": "fd00:0:7::\/64"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.8",
+                    "age": 56,
+                    "seqNum": 2147483652,
+                    "payload": "fcff:8::\/32"
+                },
+                {
+                    "type": "INP",
+                    "lsId": "0.0.0.0",
+                    "advRouter": "10.0.0.8",
+                    "age": 56,
+                    "seqNum": 2147483652,
+                    "payload": "fd00:0:8::\/64"
+                }
+            ]
+        }
+    ],
+    "interfaceScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.1",
+            "interface": "lo",
+            "lsa": []
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth0",
+            "lsa": [
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.5",
+                    "advRouter": "10.0.0.6",
+                    "age": 116,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::845c:9cff:fe50:fc3c"
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth1",
+            "lsa": [
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.6",
+                    "advRouter": "10.0.0.6",
+                    "age": 116,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::54b5:5cff:fe90:3f59"
+                },
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.12",
+                    "advRouter": "10.0.0.7",
+                    "age": 112,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::e404:7aff:fe23:32c5"
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth2",
+            "lsa": [
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.7",
+                    "advRouter": "10.0.0.6",
+                    "age": 116,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::c021:2eff:feff:208c"
+                },
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.17",
+                    "advRouter": "10.0.0.8",
+                    "age": 100,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::cc9d:beff:febd:d60c"
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth3",
+            "lsa": [
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.8",
+                    "advRouter": "10.0.0.6",
+                    "age": 115,
+                    "seqNum": 2147483650,
+                    "payload": "fe80::58e3:79ff:fe1c:c416"
+                },
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.8",
+                    "advRouter": "10.0.0.6",
+                    "age": 115,
+                    "seqNum": 2147483650,
+                    "payload": "fd00:0:6::"
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth4",
+            "lsa": [
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.9",
+                    "advRouter": "10.0.0.6",
+                    "age": 117,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::1cc6:8dff:fec1:2d03"
+                },
+                {
+                    "type": "Lnk",
+                    "lsId": "0.0.0.19",
+                    "advRouter": "10.0.0.8",
+                    "age": 100,
+                    "seqNum": 2147483649,
+                    "payload": "fe80::1cc2:5eff:fe36:2685"
+                }
+            ]
+        }
+    ],
+    "asScopedLinkStateDb": [
+        {
+            "lsa": []
+        }
+    ]
+}

@@ -1,0 +1,847 @@
+{
+    "areaScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.0",
+            "lsa": [
+                {
+                    "age": 416,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 33281,
+                    "length": 72,
+                    "duration": "00:06:56",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.67",
+                            "neighborInterfaceId": "0.0.0.67",
+                            "neighborRouterId": "10.0.0.1"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.68",
+                            "neighborInterfaceId": "0.0.0.68",
+                            "neighborRouterId": "10.0.0.1"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.69",
+                            "neighborInterfaceId": "0.0.0.72",
+                            "neighborRouterId": "10.0.0.5"
+                        }
+                    ]
+                },
+                {
+                    "age": 383,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.2",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 60780,
+                    "length": 72,
+                    "duration": "00:06:22",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.75",
+                            "neighborInterfaceId": "0.0.0.67",
+                            "neighborRouterId": "10.0.0.1"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.76",
+                            "neighborInterfaceId": "0.0.0.73",
+                            "neighborRouterId": "10.0.0.5"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.77",
+                            "neighborInterfaceId": "0.0.0.80",
+                            "neighborRouterId": "10.0.0.4"
+                        }
+                    ]
+                },
+                {
+                    "age": 378,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 1342,
+                    "length": 72,
+                    "duration": "00:06:17",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.83",
+                            "neighborInterfaceId": "0.0.0.79",
+                            "neighborRouterId": "10.0.0.4"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.84",
+                            "neighborInterfaceId": "0.0.0.68",
+                            "neighborRouterId": "10.0.0.1"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.85",
+                            "neighborInterfaceId": "0.0.0.71",
+                            "neighborRouterId": "10.0.0.5"
+                        }
+                    ]
+                },
+                {
+                    "age": 379,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.4",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 14340,
+                    "length": 72,
+                    "duration": "00:06:17",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.79",
+                            "neighborInterfaceId": "0.0.0.79",
+                            "neighborRouterId": "10.0.0.4"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.80",
+                            "neighborInterfaceId": "0.0.0.80",
+                            "neighborRouterId": "10.0.0.4"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.81",
+                            "neighborInterfaceId": "0.0.0.74",
+                            "neighborRouterId": "10.0.0.5"
+                        }
+                    ]
+                },
+                {
+                    "age": 412,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 54178,
+                    "length": 88,
+                    "duration": "00:06:51",
+                    "bits": "--------",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.71",
+                            "neighborInterfaceId": "0.0.0.71",
+                            "neighborRouterId": "10.0.0.5"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.72",
+                            "neighborInterfaceId": "0.0.0.72",
+                            "neighborRouterId": "10.0.0.5"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.73",
+                            "neighborInterfaceId": "0.0.0.73",
+                            "neighborRouterId": "10.0.0.5"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.74",
+                            "neighborInterfaceId": "0.0.0.74",
+                            "neighborRouterId": "10.0.0.5"
+                        }
+                    ]
+                },
+                {
+                    "age": 416,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 1723,
+                    "length": 32,
+                    "duration": "00:06:56",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.1",
+                        "10.0.0.2"
+                    ]
+                },
+                {
+                    "age": 416,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 2741,
+                    "length": 32,
+                    "duration": "00:06:56",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.1",
+                        "10.0.0.3"
+                    ]
+                },
+                {
+                    "age": 379,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.4",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 42759,
+                    "length": 32,
+                    "duration": "00:06:17",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.4",
+                        "10.0.0.3"
+                    ]
+                },
+                {
+                    "age": 384,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.4",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 36639,
+                    "length": 32,
+                    "duration": "00:06:22",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.4",
+                        "10.0.0.2"
+                    ]
+                },
+                {
+                    "age": 412,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 64440,
+                    "length": 32,
+                    "duration": "00:06:51",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.5",
+                        "10.0.0.3"
+                    ]
+                },
+                {
+                    "age": 452,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 54751,
+                    "length": 32,
+                    "duration": "00:07:30",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.5",
+                        "10.0.0.1"
+                    ]
+                },
+                {
+                    "age": 422,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 55769,
+                    "length": 32,
+                    "duration": "00:07:01",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.5",
+                        "10.0.0.2"
+                    ]
+                },
+                {
+                    "age": 422,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 60356,
+                    "length": 32,
+                    "duration": "00:07:01",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.5",
+                        "10.0.0.4"
+                    ]
+                },
+                {
+                    "age": 486,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 40408,
+                    "length": 36,
+                    "duration": "00:08:06",
+                    "metric": 20000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:6::\/64"
+                },
+                {
+                    "age": 486,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 51061,
+                    "length": 36,
+                    "duration": "00:08:06",
+                    "metric": 30000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:7::\/64"
+                },
+                {
+                    "age": 486,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 52589,
+                    "length": 36,
+                    "duration": "00:08:06",
+                    "metric": 30000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:8::\/64"
+                },
+                {
+                    "age": 411,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 46471,
+                    "length": 36,
+                    "duration": "00:06:50",
+                    "metric": 30000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:6::\/64"
+                },
+                {
+                    "age": 411,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 38874,
+                    "length": 36,
+                    "duration": "00:06:50",
+                    "metric": 20000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:7::\/64"
+                },
+                {
+                    "age": 411,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 49527,
+                    "length": 36,
+                    "duration": "00:06:50",
+                    "metric": 30000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:8::\/64"
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "lsa": [
+                {
+                    "age": 491,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483652,
+                    "checksum": 6959,
+                    "length": 40,
+                    "duration": "00:08:11",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.70",
+                            "neighborInterfaceId": "0.0.0.57",
+                            "neighborRouterId": "10.0.0.6"
+                        }
+                    ]
+                },
+                {
+                    "age": 419,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483652,
+                    "checksum": 48509,
+                    "length": 40,
+                    "duration": "00:06:55",
+                    "bits": "-------B",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.86",
+                            "neighborInterfaceId": "0.0.0.53",
+                            "neighborRouterId": "10.0.0.7"
+                        }
+                    ]
+                },
+                {
+                    "age": 492,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.6",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 56824,
+                    "length": 88,
+                    "duration": "00:08:11",
+                    "bits": "--------",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.57",
+                            "neighborInterfaceId": "0.0.0.57",
+                            "neighborRouterId": "10.0.0.6"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.58",
+                            "neighborInterfaceId": "0.0.0.54",
+                            "neighborRouterId": "10.0.0.7"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.59",
+                            "neighborInterfaceId": "0.0.0.63",
+                            "neighborRouterId": "10.0.0.8"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.61",
+                            "neighborInterfaceId": "0.0.0.65",
+                            "neighborRouterId": "10.0.0.8"
+                        }
+                    ]
+                },
+                {
+                    "age": 418,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.7",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 2739,
+                    "length": 72,
+                    "duration": "00:06:55",
+                    "bits": "--------",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.53",
+                            "neighborInterfaceId": "0.0.0.53",
+                            "neighborRouterId": "10.0.0.7"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.54",
+                            "neighborInterfaceId": "0.0.0.54",
+                            "neighborRouterId": "10.0.0.7"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.55",
+                            "neighborInterfaceId": "0.0.0.64",
+                            "neighborRouterId": "10.0.0.8"
+                        }
+                    ]
+                },
+                {
+                    "age": 567,
+                    "type": "Router",
+                    "advertisingRouter": "10.0.0.8",
+                    "lsSequenceNumber": 2147483653,
+                    "checksum": 1666,
+                    "length": 72,
+                    "duration": "00:09:25",
+                    "bits": "--------",
+                    "options": "--|R|-|--|E|V6",
+                    "lsaDescription": [
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.63",
+                            "neighborInterfaceId": "0.0.0.63",
+                            "neighborRouterId": "10.0.0.8"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.64",
+                            "neighborInterfaceId": "0.0.0.64",
+                            "neighborRouterId": "10.0.0.8"
+                        },
+                        {
+                            "type": "Transit-Network",
+                            "metric": 10000,
+                            "interfaceId": "0.0.0.65",
+                            "neighborInterfaceId": "0.0.0.65",
+                            "neighborRouterId": "10.0.0.8"
+                        }
+                    ]
+                },
+                {
+                    "age": 492,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.6",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 28754,
+                    "length": 32,
+                    "duration": "00:08:11",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.6",
+                        "10.0.0.1"
+                    ]
+                },
+                {
+                    "age": 418,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.7",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 47114,
+                    "length": 32,
+                    "duration": "00:06:55",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.7",
+                        "10.0.0.3"
+                    ]
+                },
+                {
+                    "age": 572,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.7",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 55525,
+                    "length": 32,
+                    "duration": "00:09:30",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.7",
+                        "10.0.0.6"
+                    ]
+                },
+                {
+                    "age": 567,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.8",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 33329,
+                    "length": 32,
+                    "duration": "00:09:25",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.8",
+                        "10.0.0.6"
+                    ]
+                },
+                {
+                    "age": 571,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.8",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 34347,
+                    "length": 32,
+                    "duration": "00:09:29",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.8",
+                        "10.0.0.7"
+                    ]
+                },
+                {
+                    "age": 567,
+                    "type": "Network",
+                    "advertisingRouter": "10.0.0.8",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 28227,
+                    "length": 32,
+                    "duration": "00:09:25",
+                    "options": "--|R|-|--|E|V6",
+                    "attachedRouter": [
+                        "10.0.0.8",
+                        "10.0.0.6"
+                    ]
+                },
+                {
+                    "age": 414,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 46471,
+                    "length": 36,
+                    "duration": "00:06:51",
+                    "metric": 30000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:6::\/64"
+                },
+                {
+                    "age": 414,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 57124,
+                    "length": 36,
+                    "duration": "00:06:51",
+                    "metric": 40000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:7::\/64"
+                },
+                {
+                    "age": 414,
+                    "type": "Inter-Prefix",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 58652,
+                    "length": 36,
+                    "duration": "00:06:51",
+                    "metric": 40000,
+                    "prefixOptions": "--|--|--|--|--",
+                    "prefix": "fd00:0:8::\/64"
+                },
+                {
+                    "age": 492,
+                    "type": "Intra-Prefix",
+                    "advertisingRouter": "10.0.0.6",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 16677,
+                    "length": 44,
+                    "duration": "00:08:11",
+                    "numberOfPrefix": 1,
+                    "reference": "Router",
+                    "referenceId": "0.0.0.0",
+                    "referenceAdv": "10.0.0.6",
+                    "prefix": [
+                        {
+                            "prefixOption": "--|--|--|--|--",
+                            "prefix": "fd00:0:6::\/64",
+                            "metric": 10000
+                        }
+                    ]
+                },
+                {
+                    "age": 418,
+                    "type": "Intra-Prefix",
+                    "advertisingRouter": "10.0.0.7",
+                    "lsSequenceNumber": 2147483654,
+                    "checksum": 24834,
+                    "length": 44,
+                    "duration": "00:06:55",
+                    "numberOfPrefix": 1,
+                    "reference": "Router",
+                    "referenceId": "0.0.0.0",
+                    "referenceAdv": "10.0.0.7",
+                    "prefix": [
+                        {
+                            "prefixOption": "--|--|--|--|--",
+                            "prefix": "fd00:0:7::\/64",
+                            "metric": 10000
+                        }
+                    ]
+                },
+                {
+                    "age": 567,
+                    "type": "Intra-Prefix",
+                    "advertisingRouter": "10.0.0.8",
+                    "lsSequenceNumber": 2147483653,
+                    "checksum": 33757,
+                    "length": 44,
+                    "duration": "00:09:25",
+                    "numberOfPrefix": 1,
+                    "reference": "Router",
+                    "referenceId": "0.0.0.0",
+                    "referenceAdv": "10.0.0.8",
+                    "prefix": [
+                        {
+                            "prefixOption": "--|--|--|--|--",
+                            "prefix": "fd00:0:8::\/64",
+                            "metric": 10000
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "interfaceScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.0",
+            "interface": "eth0",
+            "lsa": [
+                {
+                    "age": 496,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 39573,
+                    "length": 44,
+                    "duration": "00:08:16",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::24b4:7dff:fee6:6792",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                },
+                {
+                    "age": 425,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.2",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 10277,
+                    "length": 44,
+                    "duration": "00:07:04",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::9045:16ff:fee8:e259",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.0",
+            "interface": "eth1",
+            "lsa": [
+                {
+                    "age": 496,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 12838,
+                    "length": 44,
+                    "duration": "00:08:16",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::893:8bff:fe03:499a",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                },
+                {
+                    "age": 421,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.3",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 15429,
+                    "length": 44,
+                    "duration": "00:07:00",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::47c:24ff:fe71:4a72",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.0",
+            "interface": "eth2",
+            "lsa": [
+                {
+                    "age": 496,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 41836,
+                    "length": 44,
+                    "duration": "00:08:16",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::4c1e:46ff:fe8d:1601",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                },
+                {
+                    "age": 492,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.5",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 32651,
+                    "length": 44,
+                    "duration": "00:08:10",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::886e:1cff:fe6e:6170",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                }
+            ]
+        },
+        {
+            "areaId": "0.0.0.1",
+            "interface": "eth3",
+            "lsa": [
+                {
+                    "age": 495,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.1",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 51538,
+                    "length": 44,
+                    "duration": "00:08:15",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::b0e9:f2ff:fea6:af64",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                },
+                {
+                    "age": 612,
+                    "type": "Link",
+                    "advertisingRouter": "10.0.0.6",
+                    "lsSequenceNumber": 2147483651,
+                    "checksum": 16403,
+                    "length": 44,
+                    "duration": "00:10:11",
+                    "priority": 1,
+                    "options": "--|R|-|--|E|V6",
+                    "linkLocalAddress": "fe80::706d:9eff:fe24:e691",
+                    "numberOfPrefix": 0,
+                    "prefix": []
+                }
+            ]
+        }
+    ],
+    "asScopedLinkStateDb": [
+        {
+            "lsa": []
+        }
+    ]
+}

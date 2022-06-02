@@ -1,0 +1,83 @@
+[
+    {
+        "src": "XX.XX.XX.XX",
+        "dst": "XX.XX.XX.XX",
+        "protoL4": "tcp",
+        "sport": "443",
+        "dport": "58228",
+        "packets": "6",
+        "bytes": "4509"
+    },
+    {
+        "src": "XX.XX.XX.XX",
+        "dst": "XX.XX.XX.XX",
+        "protoL4": "tcp",
+        "sport": "39858",
+        "dport": "443",
+        "packets": "97",
+        "bytes": "12124"
+    },
+    {
+        "src": "XX.XX.XX.XX",
+        "dst": "XX.XX.XX.XX",
+        "protoL4": "tcp",
+        "sport": "443",
+        "dport": "39858",
+        "packets": "74",
+        "bytes": "58346"
+    },
+    {
+        "src": "XX.XX.XX.XX",
+        "dst": "XX.XX.XX.XX",
+        "protoL4": "tcp",
+        "sport": "50256",
+        "dport": "443",
+        "packets": "346",
+        "bytes": "21972"
+    },
+    {
+        "src": "XX.XX.XX.XX",
+        "dst": "XX.XX.XX.XX",
+        "protoL4": "tcp",
+        "sport": "443",
+        "dport": "50256",
+        "packets": "346",
+        "bytes": "19740"
+    },
+    {
+        "src": "fe80::xxxx:xxxx:xxxx:xxxx",
+        "dst": "ff02::xxxx",
+        "protoL4": "udp",
+        "sport": "5353",
+        "dport": "5353",
+        "packets": "353",
+        "bytes": "231378"
+    },
+    {
+        "src": "ff02::xxxx",
+        "dst": "fe80::xxxx:xxxx:xxxx:xxxx",
+        "protoL4": "udp",
+        "sport": "5353",
+        "dport": "5353",
+        "packets": "0",
+        "bytes": "0"
+    },
+    {
+        "src": "127.0.0.1",
+        "dst": "127.0.0.1",
+        "protoL4": "tcp",
+        "sport": "47960",
+        "dport": "8080",
+        "packets": "9",
+        "bytes": "33846"
+    },
+    {
+        "src": "127.0.0.1",
+        "dst": "127.0.0.1",
+        "protoL4": "tcp",
+        "sport": "8080",
+        "dport": "47960",
+        "packets": "9",
+        "bytes": "638"
+    }
+]

@@ -1,0 +1,57 @@
+{
+    "areaScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.0",
+            "lsa": [
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.30",
+                    "advRouter": "10.0.0.4",
+                    "age": 134,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.4"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.30",
+                    "advRouter": "10.0.0.4",
+                    "age": 134,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.2"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.23",
+                    "advRouter": "10.0.0.5",
+                    "age": 131,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.5"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.23",
+                    "advRouter": "10.0.0.5",
+                    "age": 131,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.2"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.24",
+                    "advRouter": "10.0.0.5",
+                    "age": 127,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.5"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.24",
+                    "advRouter": "10.0.0.5",
+                    "age": 127,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.4"
+                }
+            ]
+        }
+    ]
+}

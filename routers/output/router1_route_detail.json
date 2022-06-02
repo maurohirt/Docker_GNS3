@@ -1,0 +1,82 @@
+{
+    "routes": {
+        "fd00:0:6::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "01:04:39",
+            "changedTimeSince": "01:04:39",
+            "numberOfLock": 2,
+            "flags": "-A--",
+            "associatedArea": "0.0.0.0",
+            "pathType": "Inter-Area",
+            "lsOriginRoutePathType": "Inter-Prefix",
+            "lsId": "0.0.0.1",
+            "lsAdvertisingRouter": "10.0.0.3",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "xxx",
+            "metricType": 0,
+            "metricCost": 40000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::47c:24ff:fe71:4a72",
+                    "interfaceName": "eth1"
+                }
+            ]
+        },
+        "fd00:0:7::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "01:04:39",
+            "changedTimeSince": "01:04:39",
+            "numberOfLock": 2,
+            "flags": "-A--",
+            "associatedArea": "0.0.0.0",
+            "pathType": "Inter-Area",
+            "lsOriginRoutePathType": "Inter-Prefix",
+            "lsId": "0.0.0.2",
+            "lsAdvertisingRouter": "10.0.0.3",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "xxx",
+            "metricType": 0,
+            "metricCost": 30000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::47c:24ff:fe71:4a72",
+                    "interfaceName": "eth1"
+                }
+            ]
+        },
+        "fd00:0:8::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "01:04:39",
+            "changedTimeSince": "01:04:39",
+            "numberOfLock": 2,
+            "flags": "-A--",
+            "associatedArea": "0.0.0.0",
+            "pathType": "Inter-Area",
+            "lsOriginRoutePathType": "Inter-Prefix",
+            "lsId": "0.0.0.3",
+            "lsAdvertisingRouter": "10.0.0.3",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "xxx",
+            "metricType": 0,
+            "metricCost": 40000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::47c:24ff:fe71:4a72",
+                    "interfaceName": "eth1"
+                }
+            ]
+        }
+    }
+}

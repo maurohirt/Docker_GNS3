@@ -1,0 +1,73 @@
+{
+    "areaScopedLinkStateDb": [
+        {
+            "areaId": "0.0.0.1",
+            "lsa": [
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.8",
+                    "advRouter": "10.0.0.7",
+                    "age": 182,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.7"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.8",
+                    "advRouter": "10.0.0.7",
+                    "age": 182,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.17",
+                    "advRouter": "10.0.0.8",
+                    "age": 183,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.17",
+                    "advRouter": "10.0.0.8",
+                    "age": 183,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.18",
+                    "advRouter": "10.0.0.8",
+                    "age": 186,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.18",
+                    "advRouter": "10.0.0.8",
+                    "age": 186,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.7"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.19",
+                    "advRouter": "10.0.0.8",
+                    "age": 186,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.8"
+                },
+                {
+                    "type": "Net",
+                    "lsId": "0.0.0.19",
+                    "advRouter": "10.0.0.8",
+                    "age": 186,
+                    "seqNum": 2147483649,
+                    "payload": "10.0.0.6"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "routes": {
+        "fcff:1::\/32": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:01:19",
+            "changedTimeSince": "00:01:19",
+            "numberOfLock": 2,
+            "flags": "BA--",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Inter-Area",
+            "lsOriginRoutePathType": "Inter-Prefix",
+            "lsId": "0.0.0.1",
+            "lsAdvertisingRouter": "10.0.0.1",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 0,
+            "metricCost": 10010,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::60aa:3bff:fe28:6106",
+                    "interfaceName": "eth0"
+                }
+            ]
+        },
+        "fcff:6::\/32": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:04:33",
+            "changedTimeSince": "00:04:33",
+            "numberOfLock": 2,
+            "flags": "BA--",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.6",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 10,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "::",
+                    "interfaceName": "lo"
+                }
+            ]
+        },
+        "fcff:7::\/32": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:03:45",
+            "changedTimeSince": "00:03:45",
+            "numberOfLock": 2,
+            "flags": "BA--",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.7",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 10010,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::e404:7aff:fe23:32c5",
+                    "interfaceName": "eth1"
+                }
+            ]
+        },
+        "fcff:8::\/32": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:03:33",
+            "changedTimeSince": "00:03:28",
+            "numberOfLock": 2,
+            "flags": "BA-C",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.8",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 10010,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 2,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::cc9d:beff:febd:d60c",
+                    "interfaceName": "eth2"
+                },
+                {
+                    "nextHop": "fe80::1cc2:5eff:fe36:2685",
+                    "interfaceName": "eth4"
+                }
+            ]
+        },
+        "fd00:0:6::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:04:33",
+            "changedTimeSince": "00:04:33",
+            "numberOfLock": 2,
+            "flags": "BA--",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.6",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 10000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "::",
+                    "interfaceName": "eth3"
+                }
+            ]
+        },
+        "fd00:0:7::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:03:45",
+            "changedTimeSince": "00:03:45",
+            "numberOfLock": 2,
+            "flags": "BA--",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.7",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 20000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 1,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::e404:7aff:fe23:32c5",
+                    "interfaceName": "eth1"
+                }
+            ]
+        },
+        "fd00:0:8::\/64": {
+            "destinationType": "Network",
+            "installedTimeSince": "00:03:33",
+            "changedTimeSince": "00:03:28",
+            "numberOfLock": 2,
+            "flags": "BA-C",
+            "associatedArea": "0.0.0.1",
+            "pathType": "Intra-Area",
+            "lsOriginRoutePathType": "Intra-Prefix",
+            "lsId": "0.0.0.0",
+            "lsAdvertisingRouter": "10.0.0.8",
+            "options": "--|-|-|--|-|--",
+            "routerBits": "--------",
+            "prefixOptions": "--|--|--|--|--",
+            "metricType": 1,
+            "metricCost": 20000,
+            "metricCostE2": 0,
+            "pathsCount": 1,
+            "nextHopCount": 2,
+            "nextHops": [
+                {
+                    "nextHop": "fe80::cc9d:beff:febd:d60c",
+                    "interfaceName": "eth2"
+                },
+                {
+                    "nextHop": "fe80::1cc2:5eff:fe36:2685",
+                    "interfaceName": "eth4"
+                }
+            ]
+        }
+    }
+}
